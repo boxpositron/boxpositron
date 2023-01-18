@@ -1,9 +1,20 @@
-### Hi there 👋
+# Welcome to my GitHub Page!
 
-![Boxpositron's GitHub stats](https://github-readme-stats.vercel.app/api?username=boxpositron&show_icons=true&theme=dark&count_private=true&layout=compact)
+I am a experienced software developer with over 10 years of experience in the field. I have a diverse skill set, with expertise in various programming languages including:
 
+- JavaScript (Vanilla, React, VueJS)
+- Python
+- Typescript
+- C
+- Shell Script
+- Solidity
+- NodeJS
+- And more!
+- Currently learning Rust
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boxpositron&layout=compact&theme=dark)
+In addition to software development, I am also interested in security and penetration testing. Furthermore, I hold a degree in Electrical and Electronics engineering and have experience in building hardware. I am passionate about automation and love to build projects in my free time.
+
+Most of my projects are private, but feel free to reach out to me if you would like to see them or if you have any questions. I am always available and happy to help.
 
 
 <!--
