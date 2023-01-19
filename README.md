@@ -5,6 +5,7 @@ I am a experienced software developer with over 10 years of experience in the fi
 - JavaScript (Vanilla, React, VueJS)
 - Python
 - Typescript
+- Go
 - C
 - Shell Script
 - Solidity
