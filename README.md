@@ -1,6 +1,6 @@
 # Welcome to my GitHub Page!
 
-I am a experienced software developer with over 10 years of experience in the field. I have a diverse skill set, with expertise in various programming languages including:
+I'm an experienced software developer with over 10 years of experience in the field. I have a diverse skill set, with expertise in various programming languages including:
 
 - JavaScript (Vanilla, React, VueJS)
 - Python
